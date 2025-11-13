@@ -1,0 +1,17 @@
+# Declare of the type of ctrl
+uint8 CHARGE    = 0
+uint8 SHELL     = 1
+uint8 CLEAN     = 2
+uint8 WARM      = 3
+
+
+# Declare of the data of ctrl
+uint8 CLOSE     = 0
+uint8 OPEN      = 1
+
+
+
+uint8 ctrl_type
+uint8 ctrl_data
+---
+bool result

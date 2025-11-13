@@ -1,0 +1,10 @@
+# Goal
+int32 task_id
+---
+# Result
+bool success
+int32 task_id
+string result
+---
+# Feedback
+string message

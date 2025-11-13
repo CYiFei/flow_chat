@@ -1,0 +1,8 @@
+#goal definition
+string explorebuild_state
+---
+#result definition
+int32 result
+---
+#feedback definition
+int32 status

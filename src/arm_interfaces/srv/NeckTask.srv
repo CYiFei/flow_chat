@@ -1,0 +1,8 @@
+# An example of a trigger service.
+# This can be used for testing but a semantically meaningful
+# one should be created to be built upon.
+int32 task_id
+float32 set_level_angle #水平方向角度
+float32 set_vertical_angle #垂直方向角度
+---
+bool success   # indicate successful run of triggered service

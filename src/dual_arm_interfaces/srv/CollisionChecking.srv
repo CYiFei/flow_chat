@@ -1,0 +1,6 @@
+bool collision_checking
+bool ENABLE = true
+bool DISABLE = false
+---
+bool result
+string message

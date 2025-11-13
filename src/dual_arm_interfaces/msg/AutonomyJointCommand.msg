@@ -1,0 +1,7 @@
+builtin_interfaces/Time stamp
+dual_arm_interfaces/Joint[7] left_joint_command
+dual_arm_interfaces/Joint[7] right_joint_command
+
+dual_arm_interfaces/TwoFingerGripper left_gripper_command
+dual_arm_interfaces/TwoFingerGripper right_gripper_command
+

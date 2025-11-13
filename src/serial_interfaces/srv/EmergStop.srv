@@ -1,0 +1,5 @@
+#true or false.true is chassis do emergency stop.false is do recover.
+
+bool ctrl_stop
+---
+bool result

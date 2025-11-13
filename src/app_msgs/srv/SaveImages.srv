@@ -1,0 +1,4 @@
+string file_path   # 文件保存路径，绝对路径，例如 "/home/user/images"
+uint16 images_number # 需要保存的图像数量，范围 1-{MAX_IMAGES}
+---
+bool success   

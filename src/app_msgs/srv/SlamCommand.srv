@@ -1,0 +1,6 @@
+string command  # save_map | save_semantic_map
+string map_path
+string map_name
+app_msgs/MapMask[] map_masks
+---
+int32 status

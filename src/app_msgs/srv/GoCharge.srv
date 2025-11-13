@@ -1,0 +1,12 @@
+geometry_msgs/Pose2D docking_pose
+# string frame
+# true: charge false: discharge
+bool charge
+---
+uint8 SUCCESS  = 0
+uint8 NAV_FAIL      = 1
+uint8 RECOGNIZE_FAIL   = 2
+uint8 ACTION_TIMEOUT = 3
+uint8 CHARGE_CONTROL_FAIL = 4
+
+uint8 result

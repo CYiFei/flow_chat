@@ -1,0 +1,9 @@
+#declare rgb mode
+#1:常亮 2:呼吸 3:闪烁，表示亮灭闪烁  4：爆闪，表示快速闪烁  5:流水。6:跑马。7：全彩。此种模式下，可不输入RGB值。8：三色流水切换。此种模式下，可不输入RGB值。
+
+uint8 rgb_mode
+
+#declare r,g,b range data,0-255
+uint8[3] rgb_data
+---
+bool result

@@ -1,0 +1,9 @@
+#goal definition
+string task_state
+---
+#result definition
+int32 result
+geometry_msgs/Point[] pose
+---
+#feedback definition
+int32 status

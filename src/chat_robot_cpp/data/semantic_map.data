@@ -1,0 +1,195 @@
+Semantic Map Data
+Num_x_cells: 174
+Num_y_cells: 281
+Max: 5.6 4.15
+Resolution: 0.05
+semantic label 0
+instance label 0
+min pos 1.01758 -3.5219
+max pos 2.51536 -2.79701
+suggest point 1.76647 -2.29701
+orient 90
+min ij 138 61
+max ij 161 91
+color 0.639216 0.592157 0.635294
+semantic label 7
+instance label 0
+min pos 2.73348 -3.44776
+max pos 4.07053 -2.75389
+suggest point 3.40201 -2.25389
+orient 90
+min ij 151 57
+max ij 138 30
+color 0.254902 0.407843 0.407843
+semantic label 28
+instance label 0
+min pos 4.18307 -3.9731
+max pos 5.18939 -3.04381
+suggest point 4.68623 -2.54381
+orient 90
+min ij 162 28
+max ij 143 8
+color 0.729412 0.54902 0.552941
+semantic label 1
+instance label 0
+min pos -0.595244 -3.43795
+max pos 0.0840286 -2.94399
+suggest point -0.255608 -2.44399
+orient 90
+min ij 141 110
+max ij 156 123
+color 0.266667 0.584314 0.164706
+semantic label 11
+instance label 0
+min pos -0.207125 -3.32374
+max pos 0.607264 -2.90705
+suggest point 0.200069 -2.40705
+orient 90
+min ij 149 116
+max ij 141 99
+color 0.392157 0.262745 0.505882
+semantic label 27
+instance label 0
+min pos -2.24449 -3.62404
+max pos -1.71069 -3.09656
+suggest point -1.97759 -2.59656
+orient 90
+min ij 155 156
+max ij 144 146
+color 0.301961 0.141176 0.862745
+semantic label 13
+instance label 0
+min pos -1.88069 -3.7662
+max pos -0.758737 -3.04174
+suggest point -1.31971 -2.54174
+orient 90
+min ij 158 149
+max ij 143 127
+color 0.835294 0.827451 0.705882
+semantic label 25
+instance label 0
+min pos -0.872492 3.38911
+max pos -0.332716 4.08937
+suggest point 2147483647 2147483647
+orient 0
+min ij 15 129
+max ij 1 118
+color 0.568627 0.909804 0.992157
+semantic label 5
+instance label 0
+min pos -0.417584 3.46503
+max pos 0.255379 3.76011
+suggest point -0.0811024 2.96503
+orient -90
+min ij 0 106
+max ij 13 120
+color 0.501961 0.0196078 0.72549
+semantic label 16
+instance label 0
+min pos -1.0576 2.30048
+max pos -0.662595 2.97962
+suggest point 0.237405 2.64005
+orient 0
+min ij 36 133
+max ij 23 125
+color 0.92549 0.372549 0.639216
+semantic label 14
+instance label 0
+min pos -2.18239 3.43677
+max pos -1.61251 4.1
+suggest point -1.89745 2.93677
+orient -90
+min ij 14 155
+max ij 1 144
+color 0.682353 0.588235 0.552941
+semantic label 10
+instance label 0
+min pos -3.10796 3.50002
+max pos -2.41267 4.1
+suggest point -2.76032 3.00002
+orient -90
+min ij 12 174
+max ij 1 160
+color 0.494118 0.858824 0.796078
+semantic label 15
+instance label 0
+min pos -3.1694 1.76269
+max pos -2.70239 2.48706
+suggest point -2.20239 2.12487
+orient 0
+min ij 47 175
+max ij 33 166
+color 0.807843 0.866667 0.694118
+semantic label 2
+instance label 0
+min pos -5.95197 1.02407
+max pos -5.46702 1.57581
+suggest point -4.96702 1.29994
+orient 0
+min ij 62 231
+max ij 51 221
+color 0.117647 0.32549 0.513726
+semantic label 9
+instance label 0
+min pos -5.96052 0.296586
+max pos -5.41522 1.03012
+suggest point -4.91522 0.663351
+orient 0
+min ij 77 231
+max ij 62 220
+color 0.988235 0.113725 0.956863
+semantic label 18
+instance label 0
+min pos -5.92419 3.61337
+max pos -5.40784 3.86979
+suggest point -5.66601 3.11337
+orient -90
+min ij 10 230
+max ij 5 220
+color 0.870588 0.435294 0.0470588
+semantic label 22
+instance label 0
+min pos -5.81417 3.57077
+max pos -5.4203 4.1
+suggest point -6.51417 3.83538
+orient -180
+min ij 11 228
+max ij 1 220
+color 0.556863 0.721569 0.0509804
+semantic label 17
+instance label 0
+min pos -4.58342 3.8019
+max pos -4.20457 4.1
+suggest point -4.39399 3.3019
+orient -90
+min ij 6 203
+max ij 1 196
+color 0.454902 0.223529 0.329412
+semantic label 24
+instance label 0
+min pos -7.18682 2.47249
+max pos -6.71078 2.78162
+suggest point -6.9488 3.28162
+orient 90
+min ij 33 255
+max ij 27 246
+color 0.384314 0.282353 0.352941
+semantic label 3
+instance label 0
+min pos -6.35575 -3.69292
+max pos -4.66171 -1.49811
+suggest point -6.85575 -2.59552
+orient -180
+min ij 156 239
+max ij 112 205
+color 0.345098 0.941176 0.423529
+semantic label 12
+instance label 0
+min pos -3.94185 -3.91622
+max pos -3.07522 -2.89138
+suggest point -4.44185 -3.4038
+orient -180
+min ij 161 190
+max ij 140 173
+color 0.172549 0.262745 0.945098
+Finish

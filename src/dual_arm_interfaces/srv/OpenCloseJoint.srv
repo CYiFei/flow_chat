@@ -1,0 +1,6 @@
+bool open_close_joint
+bool OPEN = true
+bool CLOSE = false
+---
+bool result
+string message

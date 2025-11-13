@@ -1,0 +1,9 @@
+#goal definition
+geometry_msgs/PoseStamped docking_pose
+string frame
+---
+#result definition
+std_msgs/Empty result
+---
+#feedback definition
+int16 status

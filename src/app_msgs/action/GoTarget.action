@@ -1,0 +1,17 @@
+#goal definition
+string task_state
+app_msgs/MotionType motion_type #1.绝对运动走target_pose 2.相对运动走 distance 方位角azimuth 最终朝向 yaw 3.相对旋转rotate_angle
+
+geometry_msgs/PoseStamped target_pose
+
+float32 distance
+float32 azimuth
+float32 yaw
+
+float32 rotate_angle
+---
+#result definition
+int32 result
+---
+#feedback definition
+int32 status

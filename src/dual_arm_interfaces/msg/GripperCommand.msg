@@ -1,0 +1,5 @@
+bool left_gripper_open
+bool left_gripper_close
+bool right_gripper_open
+bool right_gripper_close
+

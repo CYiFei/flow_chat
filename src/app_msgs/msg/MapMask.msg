@@ -1,0 +1,3 @@
+geometry_msgs/Polygon box
+uint8 source_pixel
+uint8 destination_pixel

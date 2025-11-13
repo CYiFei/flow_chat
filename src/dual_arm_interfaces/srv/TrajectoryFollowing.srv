@@ -1,0 +1,9 @@
+uint8 trajectory_mode
+
+uint8 IDLE=0
+uint8 AUTONOMY_JOINT = 1
+uint8 TELEOPERATION_CARTESIAN = 2
+uint8 TELEOPERATION_EEF=3
+uint8 TELEOPERATION_JOINT=4
+---
+bool result

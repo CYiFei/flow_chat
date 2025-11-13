@@ -1,0 +1,10 @@
+# need test .
+uint8 joint_id
+uint8 joint_mode
+uint8 POSITION_MODE=4
+uint8 CURRENT_MODE=2
+uint8 SPEED_MODE=3
+uint8 TORQUE_MODE=5
+---
+bool result
+string message

@@ -1,0 +1,6 @@
+bool joint_admittance
+bool ENABLE = true
+bool DISABLE = false
+---
+bool result
+string message

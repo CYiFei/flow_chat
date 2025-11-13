@@ -1,0 +1,14 @@
+#收纳标签
+string[] item_labels
+
+#任务状态
+int32 task_state
+
+#任务类型  全屋收纳：0  指定房间收纳：1，2，3....   去收纳箱：-1   去指定物品点：-2   到达机械臂抓取区域：-3
+int32 type
+
+#收纳物品的坐标
+geometry_msgs/Point item_pose
+---
+#结果
+bool result

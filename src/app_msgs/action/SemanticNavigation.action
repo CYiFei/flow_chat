@@ -1,0 +1,13 @@
+#goal definition
+string task_state
+geometry_msgs/Polygon box
+geometry_msgs/Point32 recommended_point
+geometry_msgs/Point32 select_point
+string name
+float32 orient
+---
+#result definition
+int32 result
+---
+#feedback definition
+int32 status

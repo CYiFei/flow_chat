@@ -1,0 +1,38 @@
+# code
+uint8 START_MAPPING_OK = 0
+uint8 START_MAPPING_FAILED = 1
+uint8 FINISH_MAPPING_OK = 2
+uint8 FINISH_MAPPING_FAILED = 3
+uint8 FINISH_SLAM_MAPPING_OK = 4
+uint8 FINISH_SLAM_MAPPING_FAILED = 5
+uint8 PAUSE_MAPPING_OK = 6
+uint8 PAUSE_MAPPING_FAILED = 7
+uint8 CANCEL_MAPPING_OK = 8
+uint8 CANCEL_MAPPING_FAILED = 9
+uint8 CONTINUE_MAPPING_OK = 10
+uint8 CONTINUE_MAPPING_FAILED = 11
+uint8 RESTART_MAPPING_OK = 12
+uint8 RESTART_MAPPING_FAILED = 13
+
+uint8 INSERT_OK = 14
+uint8 INSERT_FAILED = 15
+uint8 SELECT_OK = 16
+uint8 SELECT_FAILED = 17
+uint8 DELETE_OK = 18
+uint8 DELETE_FAILED = 19
+uint8 UPDATE_OK = 20
+uint8 UPDATE_FAILED = 21
+uint8 UPLOAD_OK = 22
+uint8 UPLOAD_FAILED = 23
+
+uint8 NAVIGATION_OK = 24
+uint8 NAVIGATION_FAILED = 25
+
+uint8 code
+string data
+string result
+uint32 map_max_x
+uint32 map_max_y
+float32 map_resolution
+float32 map_origin_x
+float32 map_origin_y

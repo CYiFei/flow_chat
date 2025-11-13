@@ -1,0 +1,5 @@
+string searchsomething_labels
+int32 searchsomething_state
+int32 search_type
+---
+bool result

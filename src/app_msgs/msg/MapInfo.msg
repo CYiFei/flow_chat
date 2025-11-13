@@ -1,0 +1,11 @@
+string map_name
+string view_map_name
+string map_path
+string new_map_name
+uint32 map_max_x
+uint32 map_max_y
+float32 map_resolution
+float32 map_origin_x
+float32 map_origin_y
+app_msgs/Semantic semantics
+string data

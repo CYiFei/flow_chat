@@ -1,0 +1,13 @@
+string option   # mapping_option map_option navigation_option
+
+app_msgs/MappingOption mapping_option
+app_msgs/MapOption map_option
+app_msgs/NavigationOption navigation_option
+---
+#result
+string MAPPING_FAILED = mapping_failed
+string MAPPING_SUCCESS = mapping_success
+
+string result
+MapInfo map
+app_msgs/MapInfo[] mapdb

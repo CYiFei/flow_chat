@@ -1,0 +1,23 @@
+builtin_interfaces/Time stamp
+geometry_msgs/Pose left_target_pose
+geometry_msgs/Pose right_target_pose
+
+#speed level 1-3
+uint8 speed 
+
+# 1 for tool-base, 2 for body-base
+uint8 mode 
+
+# true if pressed
+bool left_enable
+bool left_grasp
+bool left_release
+bool left_shift
+
+# true if pressed
+bool right_enable
+bool right_grasp
+bool right_release
+bool right_shift
+
+

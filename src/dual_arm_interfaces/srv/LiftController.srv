@@ -1,0 +1,4 @@
+int32 lift_pose
+int32 lift_vel
+---
+bool result

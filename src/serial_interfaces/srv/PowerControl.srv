@@ -1,0 +1,17 @@
+# Declare of the type of power
+uint8 CHASSIS_POWER  = 1
+uint8 JOINT_POWER    = 2
+uint8 LIFT_POWER     = 3
+uint8 ROLLING_POWER  = 4
+
+uint8 power_type
+
+
+# Declare of the ctrl of power
+bool OPEN = true
+bool CLOSE = false
+
+bool power_ctrl
+
+---
+bool result

@@ -1,0 +1,4 @@
+geometry_msgs/Pose2D goal_target
+int32 move_type
+---
+bool result

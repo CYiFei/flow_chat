@@ -1,0 +1,7 @@
+libdir=/home/zme/local_package/openssl_local/openssl-openssl-3.3.0/../install/lib
+includedir=/home/zme/local_package/openssl_local/openssl-openssl-3.3.0/../install/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.3.0
+Requires: libssl libcrypto

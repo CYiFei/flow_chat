@@ -1,0 +1,5 @@
+uint8 left_param
+uint8 right_param
+---
+bool result
+string message

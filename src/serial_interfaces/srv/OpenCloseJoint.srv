@@ -1,0 +1,7 @@
+uint8 dev_id
+
+bool joint_admittance
+bool OPEN = true
+bool CLOSE = false
+---
+bool result
